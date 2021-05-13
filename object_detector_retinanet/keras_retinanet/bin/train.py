@@ -36,7 +36,7 @@ from keras.utils import multi_gpu_model
 
 # Change these to absolute imports if you copy this script outside the keras_retinanet package.
 # from .. import losses
-from /content/SKU110K_CVPR19/object_detector_retinanet.keras_retinanet import losses
+from object_detector_retinanet.keras_retinanet import losses
 from object_detector_retinanet.keras_retinanet import models
 from object_detector_retinanet.keras_retinanet.callbacks import RedirectModel
 from object_detector_retinanet.keras_retinanet.models.retinanet import retinanet_bbox
